@@ -4,7 +4,7 @@
 
 ### 🛠 Breaking changes
 
-- This package (`expo-app-auth`) has been fully deprecated in favor of `expo-auth-session`.
+- This package (`expo-app-auth`) has been fully deprecated in favor of `expo-auth-session`. ([#2](https://github.com/expo/expo-app-auth/pull/2) by [@EvanBacon](https://github.com/EvanBacon))
 
 ### 🎉 New features
 
