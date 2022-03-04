@@ -38,7 +38,7 @@
   ],
   "author": "650 Industries, Inc.",
   "license": "MIT",
-  "homepage": "https://docs.expo.dev/versions/latest/sdk/app-auth/",
+  "homepage": "https://github.com/expo/expo-app-auth",
   "jest": {
     "preset": "expo-module-scripts"
   },
