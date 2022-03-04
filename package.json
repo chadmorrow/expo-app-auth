@@ -1,7 +1,7 @@
 {
   "name": "expo-app-auth",
-  "version": "11.1.0",
-  "description": "Expo Unimodule for interfacing with the OpenID library AppAuth",
+  "version": "12.0.0",
+  "description": "Deprecated Expo module for interfacing with the OpenID library AppAuth",
   "main": "build/AppAuth.js",
   "types": "build/AppAuth.d.ts",
   "sideEffects": false,
@@ -15,16 +15,6 @@
     "expo-module": "expo-module"
   },
   "keywords": [
-    "react-native",
-    "expo",
-    "app-auth",
-    "oauth",
-    "openid",
-    "authentication",
-    "auth",
-    "token",
-    "ios",
-    "android"
   ],
   "repository": {
     "type": "git",

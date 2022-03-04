@@ -4,6 +4,16 @@
 
 ### 🛠 Breaking changes
 
+### 🎉 New features
+
+### 🐛 Bug fixes
+
+### 💡 Others
+
+## 12.0.0 - 2022-03-04
+
+### 🛠 Breaking changes
+
 - This package (`expo-app-auth`) has been fully deprecated in favor of `expo-auth-session`. ([#2](https://github.com/expo/expo-app-auth/pull/2) by [@EvanBacon](https://github.com/EvanBacon))
 
 ### 🎉 New features
