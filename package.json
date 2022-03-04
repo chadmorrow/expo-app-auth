@@ -28,11 +28,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/expo/expo.git",
-    "directory": "packages/expo-app-auth"
+    "url": "https://github.com/expo/expo-app-auth.git"
   },
   "bugs": {
-    "url": "https://github.com/expo/expo/issues?q=is%3Aopen+is%3Aissue+label%3AAppAuth"
+    "url": "https://github.com/expo/expo-app-auth/issues"
   },
   "contributors": [
     "Evan Bacon <bacon@expo.io> (https://github.com/evanbacon)"
@@ -45,6 +44,7 @@
   },
   "dependencies": {
     "@expo/config-plugins": "^4.0.14",
+    "expo-modules-core": "0.7.0",
     "invariant": "^2.2.4"
   },
   "devDependencies": {
